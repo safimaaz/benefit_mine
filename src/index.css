@@ -412,6 +412,11 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
-  color: #948AA5;
+  color: #948AA5; 
   margin-top: 8px;
+}
+.section5{
+  width: 100%;
+  height: 100vh;
+     
 }
